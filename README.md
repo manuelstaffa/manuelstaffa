@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=manuelstaffa)
 
-![](https://github-readme-stats.vercel.app/api?username=manuelstaffa&show_icons=true&theme=gradient)
+![](https://github-readme-stats.vercel.app/api?username=manuelstaffa&show_icons=true&theme=ambient_gradient)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gradient)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ambient_gradient)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=manuelstaffa&show_icons=true&theme=transparent)
