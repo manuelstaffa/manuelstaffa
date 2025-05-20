@@ -2,9 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=manuelstaffa)
 
+![](https://github-readme-stats.vercel.app/api?username=manuelstaffa&show_icons=true&theme=gradient)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gradient)
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=manuelstaffa&show_icons=true&theme=transparent)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
+-->
 
 <!--
 **manuelstaffa/manuelstaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
