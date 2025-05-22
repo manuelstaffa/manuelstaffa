@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<!--
 ![](https://komarev.com/ghpvc/?username=manuelstaffa)
+-->
 
 <a href="https://github.com/manuelstaffa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manuelstaffa&show_icons=true&card_width=350&theme=transparent" />
