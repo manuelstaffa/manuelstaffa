@@ -13,10 +13,6 @@ I value clear communication, strong fundamentals, and continuous improvement.
 - Writing readable, testable code
 - Optimizing developer workflows and tooling
 
-## Connect
-
-- GitHub: https://github.com/manuelstaffa
-
 ## GitHub Stats
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=manuelstaffa&theme=sunset&show_ring=false)
